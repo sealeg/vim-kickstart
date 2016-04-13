@@ -12,7 +12,7 @@ if you spot any.
 
 Add the following to your .vimrc (see [Vundle](https://github.com/VundleVim/Vundle.vim))
 
- Plugin 'sealeg/vim-kickstart'
+    Plugin 'sealeg/vim-kickstart'
 
 
 # Thanks to...
