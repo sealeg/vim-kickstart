@@ -8,9 +8,9 @@ if you spot any.
 
 # Installation
 
-## With Vundle
+**With Vundle:**
 
-Add the following to your .vimrc (see [Vundle](../VundleVim/Vundle.vim))
+Add the following to your .vimrc (see [Vundle](https://github.com/VundleVim/Vundle.vim))
 
  Plugin 'sealeg/vim-kickstart'
 
